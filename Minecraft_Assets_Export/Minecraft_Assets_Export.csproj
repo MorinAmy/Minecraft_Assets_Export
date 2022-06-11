@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net45</TargetFramework>
+    <RootNamespace></RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Version>1.1.2</Version>
+    <Authors>MorinAmy</Authors>
+    <AutoGenerateBindingRedirects>True</AutoGenerateBindingRedirects>
+    <ApplicationIcon>writable_book.ico</ApplicationIcon>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="writable_book.ico" />
+  </ItemGroup>
+
+</Project>
